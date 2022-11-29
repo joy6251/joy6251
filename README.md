@@ -34,7 +34,7 @@
 
 - 💬 Ask me about **Foods and Natures**
 
-- 📫 How to reach me You can reach me social Outlets, media and of course on planet Earth👀
+- 📫 How to reach me You can reach me social Outlets, Handles, media and of course on planet Earth👀
 
 ## 🌐 Socials:
 
