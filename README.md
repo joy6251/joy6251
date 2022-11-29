@@ -40,7 +40,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@JoyTalukder1611)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JoyTalukder)
-[![Facebook](https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=Facebook&logoColor=white)](https://facebook.com/AniruddhaJay.6251)
+[![Facebook](https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=Facebook&logoColor=white)]([https://facebook.com/AniruddhaJay.6251](https://www.facebook.com/settings?tab=profile&section=name))
 
 <p align="center">
     <a href="https://twitter.com/@JoyTalukder1611" target="blank">
