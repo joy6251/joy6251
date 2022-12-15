@@ -174,16 +174,6 @@ No Activity Tracked This Week
 ---
 
 
-<img src="http://www.netanimations.net/livres-13.gif" width="40">**Latest Blogs** 
-
-<!-- BLOG-POST-LIST:START -->
-- [Nearest Smaller Element on Left  of an Array](https://dev.to/ditikrushna/nearest-smaller-element-on-left-of-an-array-h53)
-- [A short note on database design process](https://dev.to/ditikrushna/short-note-on-database-design-process-1bh1)
-- [Multi Thread Model](https://dev.to/ditikrushna/multi-thread-model-5gn0)
-- [Are you using the right CSS units?](https://dev.to/ditikrushna/are-you-using-the-right-css-units-25ee)
-- [Introduction to Docker](https://dev.to/ditikrushna/introduction-to-docker-2b2)
-<!-- BLOG-POST-LIST:END -->
-
 --- 
 
 <p align="center">
