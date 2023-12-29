@@ -6,8 +6,8 @@
 <hr>
 
 <h1 align="center"> Hello there 👋, I'm Joy Talukder</h1>
-<h3 align="center">✨CS Graduates 🔹 Seeker, Globetrotter, Bookworm, Stoic, Technology geek, Political activist 🔹 Photographer 🔹Cricketer✨</h3>
-<h1 align="center"> Pursuing Masters in CS at Banaras Hindu University</h1>
+<h3 align="center">✨CS Graduate 🔹 Seeker, Globetrotter, Bookworm, Stoic, Technology geek, Political activist 🔹 Photographer 🔹Cricketer✨</h3>
+<h2 align="center"> Pursuing Master's(PG) in CS at Banaras Hindu University </h2>
 
 [![](https://visitcount.itsvg.in/api?id=dhrubasaha08&icon=0&color=0)](https://visitcount.itsvg.in)
 
