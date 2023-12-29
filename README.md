@@ -6,7 +6,8 @@
 <hr>
 
 <h1 align="center"> Hello there 👋, I'm Joy Talukder</h1>
-<h3 align="center">✨CS Undergraduates 🔹 Seeker , Globetrotter, Bookworm, Stoic, Technology geek, Political activist 🔹 Photographer 🔹Cricketer✨</h3>
+<h3 align="center">✨CS Graduates 🔹 Seeker, Globetrotter, Bookworm, Stoic, Technology geek, Political activist 🔹 Photographer 🔹Cricketer✨</h3>
+<h1 align="center"> Pursuing Masters in CS at Banaras Hindu University</h1>
 
 [![](https://visitcount.itsvg.in/api?id=dhrubasaha08&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -16,17 +17,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-- 👀 I’m interested in Travel around the globe
+- 👀 I’m interested in traveling around the globe
 
-- 🔭 I’m currently working on Tech stuffs
+- 🔭 I’m currently working on Tech kinds of stuff
 
 - 🌱 I’m currently learning Programming and Cognitive Understanding
 
-- 👯 I’m looking to collaborate on Get remote teams into the collaboration mindset ,
+- 👯 I’m looking to collaborate on Get remote teams into the collaboration mindset,
       Create an inclusive remote working environment, 
       Make meetings more efficient, 
-      Prioritise business process and accountability, 
-      Not panic when things go wrong.
+      Prioritise business processes and accountability, 
+      Do not panic when things go wrong.
 
 - 🤔 I’m looking for help with **Networking**
 
@@ -34,7 +35,7 @@
 
 - 💬 Ask me about **Foods and Natures**
 
-- 📫 How to reach me You can reach me social Outlets, Handles, media and of course on planet Earth👀
+- 📫 How to reach me You can reach me through social Outlets, Handles, media, and of course on planet Earth👀
 
 ## 🌐 Socials:
 
@@ -43,7 +44,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=Facebook&logoColor=white)](https://facebook.com/AniruddhaJay.6251)
 
 <p align="center">
-    <a href="https://twitter.com/@JoyTalukder1611" target="blank">
+    <a href="https://twitter.com/JoyTalukder1611" target="blank">
         <img src="https://img.shields.io/twitter/follow/@JoyTalukder1611?logo=twitter&style=for-the-badge"
             alt="@JoyTalukder1611"/>
     </a>
@@ -105,7 +106,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Mostly, when you see programmers, they aren’t doing anything.  One of the attractive things about programmers is that you cannot tell whether or not they are working simply by looking at them.  Very often they’re sitting there seemingly drinking coffee and gossiping, or just staring into space.  What the programmer is trying to do is get a handle on all the individual and unrelated ideas that are scampering around in his head.”— Charles M. Strauss   ❞</i>
+<i>❝Mostly, when you see programmers, they aren’t doing anything.  One of the attractive things about programmers is that you cannot tell whether or not they are working simply by looking at them.  They’re often sitting there seemingly drinking coffee and gossiping or staring into space.  What the programmer is trying to do is get a handle on all the individual and unrelated ideas that are scampering around in his head.”— Charles M. Strauss   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
@@ -162,7 +163,7 @@ No Activity Tracked This Week
 🏆  105 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 18 tasks so far           
-⏳  Longest streak is 1 days
+⏳  Longest streak is 1 day
 <!-- TODO-IST:END -->
 
 📚 **Books I'm Currently Reading**
